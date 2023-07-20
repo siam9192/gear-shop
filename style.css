@@ -73,7 +73,7 @@ line-height: 70px; }
   
 }
 .header-main-img {
-    background-image: url(influencer-gear/images/Circle\ design.svg);
+    background-image: url("imgsource/images/Circle\ design.svg");
 background-repeat: no-repeat;
 display: flex;
 }
